@@ -2,4 +2,4 @@
 Java8 programming concepts
 
 # Heading 1 #
-* Method References - [FilteringApples] (https://github.com/ishan-aggarwal/Java8InAction/blob/main/lambdasinaction/chap1/FilteringApples.java)
+* Method References - [Method Reference Example - FilteringApples](https://github.com/ishan-aggarwal/Java8InAction/blob/main/lambdasinaction/chap1/FilteringApples.java)
