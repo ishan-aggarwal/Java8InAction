@@ -27,3 +27,4 @@ Java8 Programming Concepts
 **Chapter 3**
 
 * Lambda Expressions lets you represent a behavior or pass code in a concise way (think of lambda expressions as anonymous functions).
+* In a nutshell, a functional interface is an interface that specifies exactly one abstract method.
