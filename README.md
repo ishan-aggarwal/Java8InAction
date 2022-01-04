@@ -24,3 +24,6 @@ Java8 Programming Concepts
 
  The Java API contains many methods that can be parameterized with different behaviors, which include sorting, threads, and GUI handling.
 
+**Chapter 3**
+
+* Lambda Expressions lets you represent a behavior or pass code in a concise way (think of lambda expressions as anonymous functions).
