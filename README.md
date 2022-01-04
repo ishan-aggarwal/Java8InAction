@@ -14,7 +14,8 @@ Java8 Programming Concepts
 
 ![image](https://user-images.githubusercontent.com/12678869/148015681-40044d6f-2cb2-4f19-a98b-e21ca681b194.png)
 
-* Summary
+* **Summary**
+
  Behavior parameterization is the ability for a method to take multiple different behaviors as parameters and use them internally to accomplish different behaviors.
 
  Behavior parameterization lets you make your code more adaptive to changing requirements and saves on engineering efforts in the future.
